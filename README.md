@@ -1,0 +1,1 @@
+The main idea of this Python script is to visualize the difference between asymmetric and symmetric short circuits that can occur in a generator, allowing us to observe the difference in the values reached in each case. Additionally, it will show the role played by the direct current (DC) generated in an asymmetric short circuit.
